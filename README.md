@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dueno-de-tu-vida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dueño de tu vida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-tu-vida/) |
+| **Get License** | [Get a Licensing Quote for Dueño de tu vida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-tu-vida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `878bb7c410deb87a61ac93321c432b428ab018c51d0db289eea128e5ff0cf7a0` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
