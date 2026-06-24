@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dueno-de-tu-vida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Dueño de tu vida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-tu-vida/) |
+| **Get License** | [Secure Licensing Rights for Dueño de tu vida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-tu-vida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, tú sabes que esta noche es para ti
+> Me tienes loco con la forma en que me miras así
+> Un piquete de calle pero siempre VIP
+> Soy el dueño de tu vida y tú naciste pa' mí
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
